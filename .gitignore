@@ -1,0 +1,12 @@
+**/bin
+**/.gradle
+.classpath
+**/.sts4-cache
+.project
+**/.settings
+build
+.vagrant
+/ubuntu-xenial-16.04-cloudimg-console.log
+.DS_Store
+.idea
+

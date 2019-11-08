@@ -1,3 +1,2 @@
- [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg "MIT License")](http://wiesner.mit-license.org)
+# labs-spring-security-lite
 
-# spring-security-summit
